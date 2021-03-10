@@ -14,4 +14,4 @@ Repositorio do curso disponivel [nesse link](https://github.com/gustavoguanabara
 - [Ex004: Adicionando Favicon.](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex004/index.html)
 - [Ex006: Hirearquia de titulos.](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex006/index.html)
 - [Ex007: Semantica HTML 5](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex007/index.html)
-- [Formatações adicionais em HTML](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex008/index.html)
+- [EX008: Formatações adicionais em HTML](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex008/index.html)
