@@ -6,7 +6,6 @@ Repositorio do curso disponivel [nesse link](https://github.com/gustavoguanabara
 <hr>
 
 ### Sessões divididas por aulas e/ou exercícios:
-<hr>
 
 - [Extra: Biblioteca de tags para HTML](https://www.instagram.com/p/CHiQXYPgXTU/)
 - [Ex001: Olá, mundo!](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex001/index.html)
