@@ -10,3 +10,4 @@ Repositorio do curso disponivel [nesse link](https://github.com/gustavoguanabara
 - [Extra: Biblioteca de tags para HTML](https://www.instagram.com/p/CHiQXYPgXTU/)
 - [Ex001: Olá, mundo!](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex001/index.html)
 - [Ex002: Parágrafos, quebras de texto, simbolos e emojis.](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex002/index.html)
+- [Ex003: Colocando imagens por arquivos e pela internet.](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex003/index.html)
