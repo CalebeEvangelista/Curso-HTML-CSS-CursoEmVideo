@@ -15,4 +15,5 @@ Repositorio do curso disponivel [nesse link](https://github.com/gustavoguanabara
 - [Ex006: Hirearquia de titulos.](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex006/index.html)
 - [Ex007: Semantica HTML 5](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex007/index.html)
 - [Ex008: Formatações adicionais em HTML](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex008/index.html)
-- [Ex009: Citações e códigos](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex009/inderx.html)
+- [Ex008b: Citações e códigos](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex009/inderx.html)
+- [Ex009: Listas ordenadas](https://github.com/CalebeEvangelista/Curso-HTML-CSS-CursoEmVideo/blob/main/Exercicios/Ex009/inderx.html)
